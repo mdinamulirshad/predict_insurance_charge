@@ -11,6 +11,7 @@ body {
     background: linear-gradient(180deg, #f9fbfc 0%, #ffffff 100%);
     margin: 0;
     color: #2d3436;
+    height: 100vh;
   }
 
   .container_fluid{
